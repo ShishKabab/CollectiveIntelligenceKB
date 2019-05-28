@@ -29,3 +29,5 @@ To Be Done. As a quick start, here's some existing efforts I'd like to document:
 - [WikiPedia](https://en.wikipedia.org/wiki/Wikipedia:Governance)
 - [LiquidO](http://liquido.cocoonprojects.com/)
 - [BridgeWater Associates idea meritocracy](https://www.ted.com/talks/ray_dalio_how_to_build_a_company_where_the_best_ideas_win?language=en)
+- [Paper: Enabling Large-Scale Deliberation Using Attention-Mediation Metrics](https://www.researchgate.net/publication/228319392_Enabling_Large-Scale_Deliberation_Using_Attention-Mediation_Metrics)
+
