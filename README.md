@@ -12,17 +12,19 @@ This is what you're looking at is about: getting an overview and ideas on how ex
 Contributing
 ============
 
-You're looking at a project in its infancy. There's a lot of help needed to make concepts understandable, to research existing project and to organize the available information to be useful and easily navigable. Therefor, you are strongly encourage to contribute in every way you can, such as reporting errors and unclarities, suggesting new projects to add, etc. by adding issues and/or creating PRs. The long-term goal would be to enable people that aren't used to GitHub to contribute more easily, but for now I just want to see whether this project can be useful to anybody.
+You're looking at a project in its infancy. There's a lot of help needed to make concepts understandable, to research existing effort and to organize the available information to be useful and easily navigable. Therefor, you are strongly encourage to contribute in every way you can, such as reporting errors and unclarities, suggesting new projects to add, etc. by adding issues and/or creating PRs. The long-term goal would be to enable people that aren't used to GitHub to contribute more easily, but for now I just want to see whether this project can be useful to anybody.
 
 
 Structure
 =========
 
-Each project has a summary of interesting things it does, with discovered strengths and witnesses. The idea is to later make a more structured source of each individual interesting component, so we can make interesting overviews of different decision making processes, ways of gathering information, etc. Also, a good would be to include some idea of to 
+Each effort has a summary of interesting things it does that can be learned from and re-used, with problems it addresses and discovered strengths/witnesses. The idea is to later make a more structured, machine-readable source, so we can make it searchable in interesting ways and allow people to extract the data most relevant to them, e.g. comparison of decision-making models, what kind of organizations are working to address which kinds of problems, etc.
+
+So far, I'm not sure yet how to structure this information. There are a lot of things we can learn from (organizations, projects, research, etc.) so finding an appropriate content hierarchy will be an ongoing process. My bet is that by transitioning later on when enough content is generated to deduce a data model and transition to a machine-friendly format, we can organize and visualize the data in different ways.
 
 
-Projects
-========
+Existing efforts
+================
 
 To Be Done. As a quick start, here's some existing efforts I'd like to document:
 
@@ -30,4 +32,5 @@ To Be Done. As a quick start, here's some existing efforts I'd like to document:
 - [LiquidO](http://liquido.cocoonprojects.com/)
 - [BridgeWater Associates idea meritocracy](https://www.ted.com/talks/ray_dalio_how_to_build_a_company_where_the_best_ideas_win?language=en)
 - [Paper: Enabling Large-Scale Deliberation Using Attention-Mediation Metrics](https://www.researchgate.net/publication/228319392_Enabling_Large-Scale_Deliberation_Using_Attention-Mediation_Metrics)
-
+- [Stack Exchange Network](https://stackexchange.com/tour)
+- [GitHub](https://github.com/features)
