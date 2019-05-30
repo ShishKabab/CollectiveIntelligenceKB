@@ -23,14 +23,17 @@ Each effort has a summary of interesting things it does that can be learned from
 So far, I'm not sure yet how to structure this information. There are a lot of things we can learn from (organizations, projects, research, etc.) so finding an appropriate content hierarchy will be an ongoing process. My bet is that by transitioning later on when enough content is generated to deduce a data model and transition to a machine-friendly format, we can organize and visualize the data in different ways.
 
 
-Existing efforts
-================
+Uncategorized efforts
+=====================
 
-To Be Done. As a quick start, here's some existing efforts I'd like to document:
+- [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Governance): Wikipedia popularized the idea of the Wiki (a collection of pages that everybody can edit) by using their Open Source Wiki software to provide the largest encyclopedia available, constructed and quality checked by its contributors. Wikis have been used in other contexts, with different types of content with different rules and content structures. (TODO: more details in their own pages about the concept of a Wiki and about the governance and content editing rules of Wikipedia itself.)
 
-- [WikiPedia](https://en.wikipedia.org/wiki/Wikipedia:Governance)
-- [LiquidO](http://liquido.cocoonprojects.com/)
-- [BridgeWater Associates idea meritocracy](https://www.ted.com/talks/ray_dalio_how_to_build_a_company_where_the_best_ideas_win?language=en)
-- [Paper: Enabling Large-Scale Deliberation Using Attention-Mediation Metrics](https://www.researchgate.net/publication/228319392_Enabling_Large-Scale_Deliberation_Using_Attention-Mediation_Metrics)
-- [Stack Exchange Network](https://stackexchange.com/tour)
-- [GitHub](https://github.com/features)
+- [LiquidO](http://liquido.cocoonprojects.com/): LiquidO is an organizational model without a pre-defined hierarchy. These organizations are open for everybody to join, initially as Contributors before becoming Members. Organizational strategy, goals and activities on all levels are decided by rhythmic collective activities (from calls to events), some of which Member-only. This model also includes decision making processes, task coordination and more. (TODO: decompose its components and lessons to be learned in its own page.)
+
+- [BridgeWater Associates idea meritocracy](https://www.ted.com/talks/ray_dalio_how_to_build_a_company_where_the_best_ideas_win?language=en): An organizational model that "that encourages thoughtful disagreements and explores and weighs people’s opinions in proportion to their merits" with the goal of having the best ideas win. Key to this is Radical Transparency, meaning that everybody gets continuous feedback on their strengths and weakness, both in character, skills and knownledge. Trough this, people can continuously improve themselves, work together with the people that complement each other the best. (TODO: research, dissect and document in own page.)
+
+- [Paper: Enabling Large-Scale Deliberation Using Attention-Mediation Metrics](https://www.researchgate.net/publication/228319392_Enabling_Large-Scale_Deliberation_Using_Attention-Mediation_Metrics): This paper describes an online platform in which discussions are organized into trees. Ideas can contain ideas, opportunities and dangers, which can in turn contain others of these. The idea is to explore an argument removing rhetoric and detecting duplication, people gathering too much around a single line of thought, and other problem leading to sub-optimal exploration.
+
+- [Stack Exchange Network](https://stackexchange.com/tour): TODO: write short introduction and document.
+
+- [GitHub](https://github.com/features): TODO: write short introduction and document.
