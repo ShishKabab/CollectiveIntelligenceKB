@@ -8,7 +8,6 @@ With the complexity of society exploding, we cannot afford continuing without an
 
 This is what you're looking at is about: getting an overview and ideas on how existing processes/tools are facilitating collective intelligence. My hope with this is that to inspire people to think what could happen as we develop in the direction of a Collectively Intelligent society. Also, the aim is to generate more awareness of the concept of Collective Intelligence, which doesn't nearly get as much attention as it should.
 
-
 Contributing
 ============
 
@@ -40,9 +39,13 @@ Overview
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Governance): Wikipedia popularized the idea of the Wiki (a collection of pages that everybody can edit) by using their Open Source Wiki software to provide the largest encyclopedia available, constructed and quality checked by its contributors. Wikis have been used in other contexts, with different types of content with different rules and content structures. (TODO: more details in their own pages about the concept of a Wiki and about the governance and content editing rules of Wikipedia itself.)
 
+- [Kialo](https://www.kialo.com/): TODO: write short introduction and document.
+
 - [Stack Exchange Network](https://stackexchange.com/tour): TODO: write short introduction and document.
 
-- [GitHub](https://github.com/features): TODO: write short introduction and document.
+- [GitHub](https://github.com/features): TODO: write short introduction and document about Git and GitHub.
+
+- HackerNews, Reddit, etc.
 
 ### Tools
 
