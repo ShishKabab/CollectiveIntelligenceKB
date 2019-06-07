@@ -55,6 +55,8 @@ Overview
 
 - [Notion.so](https://www.google.com/docs/about/): TODO: write short introduction and document.
 
+- [Rational](https://www.reasoninglab.com/rationale/): TODO: write short introduction and document.
+
 
 ### Uncategorized efforts
 
