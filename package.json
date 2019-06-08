@@ -10,14 +10,19 @@
     "topics": "ts-node tools/topics/main.ts"
   },
   "dependencies": {
+    "graph-builder": "^0.2.2",
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.11",
+    "print-tree": "^0.1.5",
+    "traverse": "^0.6.6",
+    "treeify": "^1.1.0",
     "yargs": "^13.2.4"
   },
   "devDependencies": {
     "@types/js-yaml": "^3.12.1",
     "@types/lodash": "^4.14.134",
     "@types/node": "^12.0.7",
+    "@types/traverse": "^0.6.32",
     "@types/yargs": "^13.0.0",
     "ts-node": "^8.2.0",
     "typescript": "^3.5.1"

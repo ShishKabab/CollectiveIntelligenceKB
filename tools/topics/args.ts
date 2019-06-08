@@ -6,6 +6,11 @@ export interface Arguments {
         topic: string
         connected?: boolean
         requireReasons?: boolean
+    },
+    issueTree: {
+        topic: string
+        root: string
+        depth: number
     }
 }
 
@@ -17,6 +22,12 @@ export function parseArguments() : Partial<Arguments> {
                 .options({
                     connected: { type: 'boolean' },
                     requireReasons: { type: 'boolean' }
+                })
+        }) as any)
+        .command('issue-tree <topic> <root>', 'visualize issue as tree', ((subcommand : typeof yargs) => {
+            subcommand
+                .options({
+                    depth: { type: 'number' }
                 })
         }) as any)
         .argv

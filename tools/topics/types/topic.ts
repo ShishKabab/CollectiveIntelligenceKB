@@ -1,5 +1,5 @@
 export interface Topic {
-    issues: Topic[]
+    issues: Issue[]
     'issue-connections': IssueConnectionContainer[]
 }
 
