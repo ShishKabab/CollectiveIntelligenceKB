@@ -26,6 +26,9 @@ issues:
   - funding
   - economics
   - motivations
+  - user-motivations
+  - business-motivations
+  - investor-motivations
   - design-process
   - denial-of-service
   - spam
@@ -64,3 +67,126 @@ issues:
   - reliability
   - geographical-isolation
   - civilizational-collapse
+  - fraud
+  - blockchain
+  - diversity
+stakeholders:
+  users: {}
+  companies: {}
+  workers: {}
+  investors: {}
+  policy-makers: {}
+issue-connections:
+  - issue: motivations
+    connections:
+      - privacy
+      - security
+      - trust
+      - vendor-lock-in
+      - wealth-equality
+      - geographical-isolation
+      - bureaucracy
+      - resiliance
+      - viability
+      - investor-motivations
+      - business-motivations
+      - legal-risk
+      - cost-structure
+      - distribution
+      - customization
+      - gdpr
+      - legal-compliance
+      - convenience
+      - monitoring
+      - civilizational-collapse
+  - issue: centralization
+    connections:
+      - motivations
+      - research
+      - side-effects
+  - issue: decentralization
+    connections:
+      - motivations
+      - research
+      - responsibility-sharing
+      - governance
+  - issue: security
+    connections:
+      - denial-of-service
+      - privacy
+      - complexity:
+          reasons:
+            - More complexity, larger the attack surface
+      - performance
+      - security-updates
+      - hardware-diversity
+  - issue: decentralization
+    connections:
+      - flexibility
+      - ridigity
+      - trust
+      - trust-erosion
+      - pluralism
+      - governance
+      - reputation
+      - complexity
+      - gradual
+  - issue: blockchain
+    connections:
+      - decentralization
+      - motivations
+      - hype
+      - speculation
+  - issue: adoption
+    connections:
+      - ease-of-use
+      - user-motivations
+      - reliability
+      - performance
+      - feature-updates
+      - mob-mentality
+      - network-effects
+  - issue: ethics
+    connections:
+      - abuse
+  - issue: abuse
+    connections:
+      - spam
+      - fraud
+  - issue: evolution
+    connections:
+      - maintanence
+      - feature-updates
+      - security-updates
+      - design-process
+      - competence
+      - user-research
+      - protocol-evolution
+      - capability-evolution
+      - versioning
+      - feedback
+  - issue: governance
+    connections:
+      - resiliance
+      - task-delegation
+      - funding
+      - rigidity
+      - flexibility
+      - responsibility-sharing
+      - competence
+      - integration
+      - diversity
+  - issue: cost-structure
+    connections:
+      - funding
+      - cost-sharing
+      - economics
+      - sustainability
+  - issue: economics
+    connections:
+      - wealth-equaility
+      - opportunity-equality
+      - sustainability
+  - issue: performance
+    connections:
+      - caching

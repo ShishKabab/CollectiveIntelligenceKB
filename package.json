@@ -1,0 +1,25 @@
+{
+  "name": "CollectiveIntelligenceKB",
+  "version": "0.0.1",
+  "description": "Tools for collectively curated information",
+  "repository": "git@github.com:ShishKabab/CollectiveIntelligenceKB.git",
+  "author": "Vincent den Boer <vincent@shishkabab.net>",
+  "license": "GPL",
+  "private": true,
+  "scripts": {
+    "topics": "ts-node tools/topics/main.ts"
+  },
+  "dependencies": {
+    "js-yaml": "^3.13.1",
+    "lodash": "^4.17.11",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^3.12.1",
+    "@types/lodash": "^4.14.134",
+    "@types/node": "^12.0.7",
+    "@types/yargs": "^13.0.0",
+    "ts-node": "^8.2.0",
+    "typescript": "^3.5.1"
+  }
+}

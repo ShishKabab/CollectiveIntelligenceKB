@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "allowJs": true,
+        "target": "ES6",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "strict": true,
+        "sourceMap": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "skipDefaultLibCheck": true,
+        "skipLibCheck": true,
+        "outDir": "tmp",
+        "lib": ["es2017", "dom", "esnext.asynciterable"]
+    },
+    "include": ["./tools/**/*"],
+    "exclude": ["node_modules", "./src/**/*.js", "./src/**/*.jsx"]
+}
